@@ -7,8 +7,6 @@ from instagrapi import Client
 
 FONT_URL = 'Bitter-ExtraBold.ttf'
 
-API_KEY = "b1313aaf-4bb1-4c55-98dc-e0c326cf2b63"
-
 IMG_NAME = "img.jpg"
 
 def getRandomSentence(txt_file):
